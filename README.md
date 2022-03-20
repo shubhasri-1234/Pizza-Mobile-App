@@ -9,3 +9,5 @@ Pizza App Design consists of
 - 5.You can add a pizza to cart by hovering on pizza and can view the cart items by clicking the cart icon on the bottom navigation bar.
 - 6.In the cart section there will be a payment option.When you click on the pay option you will navigate to a payment page with details of your order and you have to - enter the details of your payment card.
 - 7.In this process you to switch to dark mode or light mode whenever needed.
+
+<img width="505" alt="mobile app" src="https://user-images.githubusercontent.com/83785024/159150315-55f33991-12bb-4ff9-ad29-01739bc32554.png">
