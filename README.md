@@ -10,5 +10,5 @@ Pizza App Design consists of
 - 6.In the cart section there will be a payment option.When you click on the pay option you will navigate to a payment page with details of your order and you have to - enter the details of your payment card.
 - 7.In this process you to switch to dark mode or light mode whenever needed.
 - Link to the design - https://www.figma.com/proto/8LTgd9WHYYal7UHG5UV9T2/Figma-Assignment?node-id=7%3A89&scaling=scale-down&page-id=0%3A1&starting-point-node-id=7%3A89&show-proto-sidebar=1
-
+- images -
 <img width="505" alt="mobile app" src="https://user-images.githubusercontent.com/83785024/159150315-55f33991-12bb-4ff9-ad29-01739bc32554.png">
