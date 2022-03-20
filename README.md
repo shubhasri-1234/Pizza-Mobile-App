@@ -14,3 +14,5 @@ Pizza App Design consists of
 <p align ="center">
 <img width="505" alt="mobile app" src="https://user-images.githubusercontent.com/83785024/159150315-55f33991-12bb-4ff9-ad29-01739bc32554.png">
 </p>
+- Video -
+<https://user-images.githubusercontent.com/83785024/159150734-e0eaa227-6f0e-403a-87be-08e656569549.mp4>
